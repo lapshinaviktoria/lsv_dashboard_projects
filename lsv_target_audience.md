@@ -9,3 +9,7 @@
 Заказчик: Отдел продаж.
 
 Ссылка на дашборд: https://datalens.ru/qiegbetvdpaab
+
+Скриншот дашборда:
+
+<img width="934" height="638" alt="Image" src="https://github.com/user-attachments/assets/df746aea-183b-4753-9a6f-6a5a9607273f" />
