@@ -9,3 +9,7 @@
 Целевая аудитория: Директор отдела продаж, менеджеры по продажам, менеджеры по работе с поставщиками.
 
 Ссылка на дашборд: https://datalens.ru/qmrrfw7d1y6ab
+
+Скриншот дашборда:
+
+<img width="921" height="603" alt="Image" src="https://github.com/user-attachments/assets/ed5baebb-b3a9-434a-8fef-da67c37e65ea" />
