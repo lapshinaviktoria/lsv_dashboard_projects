@@ -6,3 +6,7 @@
 Используемые технологии: Excel, Yandex.Datalens
 
 Ссылка на дашборд: https://datalens.yandex/lhxlr049fevy7
+
+Скриншот дашборда:
+
+<img width="787" height="471" alt="Image" src="https://github.com/user-attachments/assets/14919718-03b0-44b2-9a2a-69134f42bc93" />
